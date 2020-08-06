@@ -1,0 +1,42 @@
+html,body{
+  /* background: rgb(233,135,74);
+  background: linear-gradient(90deg, rgba(233,135,74,0.7878501742493873) 0%, rgba(240, 107, 178, 0.522) 100%); */
+  background: url("./img1.jpg") no-repeat fixed center;
+  
+  width: 100%;
+  height: 100%;
+  padding: 0 10px;
+}
+.card{
+  max-width: 500px;
+  width: 90%;
+  background: #fff;
+  margin: 20px auto;  
+  padding: 30px;
+  border-radius: 30px;
+  font-size: 17px;
+}
+.form-control{
+  border-radius: 10px;
+  height: 40px;
+}
+.work{
+  width: 100%;
+  height: 100px;
+  outline: none;
+  font-size: 15px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+
+.js-multiple {
+ width: 100%;
+ border-radius: 10px;
+}
+.btn{
+  width: 450px;
+    text-align: center;
+    position: unset;
+}
